@@ -55,9 +55,9 @@
 
   
 - Cara Menjalankan
-  1. Buka project di VS Code / IntelliJ
-  2. Jalankan file `Main.java`
-  3. Ikuti menu yang muncul di terminal
+1. Buka project di VS Code / IntelliJ
+2. Jalankan file `Main.java`
+3. Ikuti menu yang muncul di terminal
    
 - Contoh Menu
   ```
