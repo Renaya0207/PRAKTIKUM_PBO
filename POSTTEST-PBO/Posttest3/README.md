@@ -1,10 +1,10 @@
 # 🧹 CleanG0 - Sistem Pemesanan Jasa Cleaning 🧹
 
-Program ini adalah aplikasi sederhana yang dibuat pakai Java untuk mengelola jasa cleaning service.
-Di program ini kita bisa:
-- Menambahkan data pelanggan
-- Melihat, update, hapus, dan cari pelanggan
-- Menambahkan berbagai jenis layanan cleaning
+    Program ini adalah aplikasi sederhana yang dibuat pakai Java untuk mengelola jasa cleaning service.
+    Di program ini kita bisa:
+    - Menambahkan data pelanggan
+    - Melihat, update, hapus, dan cari pelanggan
+    - Menambahkan berbagai jenis layanan cleaning
 
   
 # Konsep yang Dipakai :
