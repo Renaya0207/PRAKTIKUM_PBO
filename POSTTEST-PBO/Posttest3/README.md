@@ -6,6 +6,7 @@ Di program ini kita bisa:
 - Melihat, update, hapus, dan cari pelanggan
 - Menambahkan berbagai jenis layanan cleaning
 
+  
 # Konsep yang Dipakai :
 
 1. Inheritance
@@ -33,11 +34,10 @@ Setiap layanan punya tampilan sendiri dengan method:
 tampilkan()
 ```
 
-
 # Fitur Program
 
 - Pelanggan
-   
+  
 Tambah pelanggan
 Lihat pelanggan
 Update pelanggan
@@ -53,11 +53,12 @@ Tambah layanan:
   Karpet
   Lihat layanan
 
+  
 - Cara Menjalankan
 1. Buka project di VS Code / IntelliJ
 2. Jalankan file `Main.java`
 3. Ikuti menu yang muncul di terminal
-
+   
 - Contoh Menu
 ```
 === SISTEM PEMESANAN JASA CLEANING ===
