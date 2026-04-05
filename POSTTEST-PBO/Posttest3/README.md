@@ -1,4 +1,4 @@
-🧹 CleanG0 - Sistem Pemesanan Jasa Cleaning 🧹
+# 🧹 CleanG0 - Sistem Pemesanan Jasa Cleaning 🧹
 
 Program ini adalah aplikasi sederhana yang dibuat pakai Java untuk mengelola jasa cleaning service.
 Di program ini kita bisa:
@@ -10,67 +10,67 @@ Di program ini kita bisa:
 # Konsep yang Dipakai :
 
 1. Inheritance
-di program ini ada 1 class utama yaitu;
-`Layanan` (parent)
-Lalu diturunkan menjadi:
-`LayananRumah`
-`LayananKantor`
-`LayananKarpet`
-Artinya:
-LayananRumah itu adalah Layanan
-LayananKantor itu adalah Layanan
-LayananKarpet itu adalah Layanan
+    di program ini ada 1 class utama yaitu;
+    `Layanan` (parent)
+    Lalu diturunkan menjadi:
+    `LayananRumah`
+    `LayananKantor`
+    `LayananKarpet`
+    Artinya:
+    LayananRumah itu adalah Layanan
+    LayananKantor itu adalah Layanan
+    LayananKarpet itu adalah Layanan
 
 2. Encapsulation
-Data disimpan dengan aman menggunakan:
-`private`
-`protected`
-getter & setter
+    Data disimpan dengan aman menggunakan:
+    `private`
+    `protected`
+    getter & setter
 
 3. Method Override
-Setiap layanan punya tampilan sendiri dengan method:
-
-```java
-tampilkan()
-```
+    Setiap layanan punya tampilan sendiri dengan method:
+    
+    ```java
+    tampilkan()
+    ```
 
 # Fitur Program
 
 - Pelanggan
   
-Tambah pelanggan
-Lihat pelanggan
-Update pelanggan
-Hapus pelanggan
-Cari pelanggan
+  Tambah pelanggan
+  Lihat pelanggan
+  Update pelanggan
+  Hapus pelanggan
+  Cari pelanggan
 
 - Layanan
 
-Tambah layanan:
-
-  Rumah
-  Kantor
-  Karpet
-  Lihat layanan
+  Tambah layanan:
+  
+    Rumah
+    Kantor
+    Karpet
+    Lihat layanan
 
   
 - Cara Menjalankan
-1. Buka project di VS Code / IntelliJ
-2. Jalankan file `Main.java`
-3. Ikuti menu yang muncul di terminal
+  1. Buka project di VS Code / IntelliJ
+  2. Jalankan file `Main.java`
+  3. Ikuti menu yang muncul di terminal
    
 - Contoh Menu
-```
-=== SISTEM PEMESANAN JASA CLEANING ===
-1. Tambah Pelanggan
-2. Lihat Pelanggan
-3. Update Pelanggan
-4. Hapus Pelanggan
-5. Cari Pelanggan
-6. Tambah Layanan
-7. Lihat Layanan
-8. Keluar
-```
+  ```
+  === SISTEM PEMESANAN JASA CLEANING ===
+  1. Tambah Pelanggan
+  2. Lihat Pelanggan
+  3. Update Pelanggan
+  4. Hapus Pelanggan
+  5. Cari Pelanggan
+  6. Tambah Layanan
+  7. Lihat Layanan
+  8. Keluar
+  ```
 
 # Kesimpulan
 Program ini menunjukkan bahwa konsep inheritance bisa digunakan untuk membuat kode jadi lebih rapi dan tidak berulang-ulang. 
